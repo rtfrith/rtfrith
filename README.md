@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rtfrith
 - 👀 I’m interested in front-end web development, WordPress, and game development.
-- 🌱 I’m currently learning more JavaScript and Python.
+- 🌱 I’m currently learning more JavaScript and C++.
